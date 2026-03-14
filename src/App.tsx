@@ -6,7 +6,7 @@ function App() {
       {/* Hero Section with Video */}
       <section className="hero-section">
         <div className="hero-label">New Release</div>
-        <h1 className="artist-name">고영배</h1>
+        <h1 className="artist-name">소란 - 사과 하나를 그려</h1>
         <div className="video-container">
           <iframe
             src="https://www.youtube.com/embed/CU3QtuHIpS8?rel=0&modestbranding=1"
