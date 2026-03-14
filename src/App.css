@@ -33,9 +33,9 @@
 }
 
 .artist-name {
-  font-family: var(--serif);
-  font-size: clamp(48px, 8vw, 80px);
-  font-weight: 700;
+  font-family: var(--display);
+  font-size: clamp(36px, 6vw, 64px);
+  font-weight: 400;
   letter-spacing: -2px;
   color: var(--soft-black);
   margin-bottom: 48px;
